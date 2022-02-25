@@ -1,0 +1,14 @@
+[
+   {
+      "titulo": "aprender",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "estudiar",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "trabajar",
+      "estado": "terminada"
+   }
+]
